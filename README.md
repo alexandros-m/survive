@@ -6,4 +6,4 @@ The computer vision one, has an area of effect that only checks for cars.
 
 ## License
 
-The software is fully open source, GPL3 licensed.
+The software is fully open source, MIT licensed.
